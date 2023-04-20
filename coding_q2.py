@@ -12,7 +12,7 @@ ella = Cat("Ella")
 ella.speak()
 
 # Write a new class `Dog`.
-# Your class should have its own `__init__` method that sets a property `name`.
+# Your class should have its own `__init__` method that sets a attribute `name`.
 # Your class should have its own `speak` method that uses its name.
 #### YOUR CODE HERE ####
 

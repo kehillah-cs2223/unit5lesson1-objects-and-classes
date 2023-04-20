@@ -15,7 +15,7 @@ ella = Cat("Ella")
 print(ella)
 
 # Write a new class `Dog`.
-# Your class should have its own `__init__` method that sets a property `name`.
+# Your class should have its own `__init__` method that sets a attribute `name`.
 # Your class should have its own `__str__` method that returns a string.
 #### YOUR CODE HERE ####
 
